@@ -1,12 +1,12 @@
 # MatMult
 ## О программе
-Программа перемножает квадратные матрицы NxN.
+Программа перемножает квадратные матрицы NxN. 
 Распараллеливание заключается в разбиении матриц на блоки и перемножении каждого блока в своей нити.
 ## Характеристики системы:
-CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
-GPU: GeForce GTX 950
-RAM: 8GB
-OS: Ubuntu
+CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz 
+GPU: GeForce GTX 950 
+RAM: 8GB 
+OS: Ubuntu 
 ## Результаты:
 | N | CPU time, ms | GPU time, ms | Acceleration |
 | --- | --- | --- | --- |
